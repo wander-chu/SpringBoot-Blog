@@ -10,4 +10,4 @@ Spring Boot Blog是由Docker + SpringBoot + Mybatis + Thymeleaf等技术实现�
 - **数据库文件目录为```docs/mysql/schema.sql```**
 - **部署后你可以根据自己需求修改版权文案、logo图片、备案记录等信息**
 
-演示站点：http://xxxx.xxx
+演示站点：http://wchu.xyz
