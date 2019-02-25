@@ -1,4 +1,4 @@
-# Spring Boot Blog
+# 基于Spring Boot的博客
 
 Spring Boot Blog是由Docker + SpringBoot + Mybatis + Thymeleaf等技术实现的Java博客系统。
 
@@ -11,3 +11,11 @@ Spring Boot Blog是由Docker + SpringBoot + Mybatis + Thymeleaf等技术实现�
 - **部署后你可以根据自己需求修改版权文案、logo图片、备案记录等信息**
 
 演示站点：http://wchu.xyz
+
+## 相关资源
+[Spring Boot开源项目](https://github.com/wander-chu/java-microservice-demo)
+
+[MyBatis开源项目](https://github.com/wander-chu/spring-boot-mybatis)
+
+[Spring Security开源项目](https://github.com/wander-chu/spring-boot-security)
+
